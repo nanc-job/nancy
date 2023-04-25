@@ -1,1 +1,2 @@
 # nancy
+print("hello world")
